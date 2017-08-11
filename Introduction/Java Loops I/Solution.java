@@ -10,7 +10,7 @@ public class Solution {
         sc.close();
         for (int i = 1; i < 11; i++)
         {
-            System.out.printf("2 x %d = %d",i,n*i);
+            System.out.printf("%d x %d = %d",n,i,n*i);
             System.out.println();
         }
     }
