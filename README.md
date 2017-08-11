@@ -1,1 +1,1 @@
-# HackerRank--Java-challenges
+# HackerRank-Java-challenges
